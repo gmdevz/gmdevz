@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmmoose20
+- 👋 Hi, I’m @gmdevz
 - 👀 I’m interested in building frontend websites
 - 🌱 I’m currently learning ReactJS, Typescript and TailwindCSS
 - 📫 How to reach me: gmmoose17@gmail.com
