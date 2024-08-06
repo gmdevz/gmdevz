@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @gmdevz
-- 👀 I’m interested in building frontend websites
-- 🌱 I’m currently learning ReactJS, Typescript and TailwindCSS
-- 📫 How to reach me: gmmoose17@gmail.com
+- 👋 Hi there! I’m @gmdevz
+- 🌟 Passionate about crafting stunning and user-friendly frontend websites
+- 🚀  Currently diving into ReactJS, TypeScript, TailwindCSS, and expanding my knowledge with NextJS and the MERN stack
+- 🛠️ Always eager to learn and explore new technologies in the web development world
+- 💬 Feel free to reach out to me at gmmoose17@gmail.com for collaborations, projects, or just a chat about tech
+- 🤝 Open to collaborating on exciting frontend projects and innovative web applications
+- 🌍 Let’s build something amazing together!
 <!-- 💞️ I’m looking to collaborate on ... --->
 <!---
 gmmoose20/gmmoose20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
