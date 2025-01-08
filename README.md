@@ -6,6 +6,9 @@
 - 🤝 Open to collaborating on exciting full-stack projects and building innovative web applications
 - 🌍 Let’s build something amazing together, learning and growing along the way!
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gmdevz&show_icons=true&theme=dark)
+
+
 <!-- 💞️ I’m looking to collaborate on ... --->
 <!---
 gmmoose20/gmmoose20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
